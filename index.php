@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE htm1>
 <html>
 	<head>
-		<title> Моя страничка </title>
+		<title> Лабораторная работа №1 </title>
 		<link rel="stylesheet" href="mycss.css">
 		<link rel="shortcut icon" href="favicon.ico">
 	</head>
